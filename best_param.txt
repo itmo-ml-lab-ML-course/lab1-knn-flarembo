@@ -1,0 +1,2 @@
+{'window-format': 'mutable', 'metrics': 'manhattan', 'kernel': 'triangular', 'neighbors': 12}
+0.768814192343604

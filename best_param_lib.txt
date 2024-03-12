@@ -1,0 +1,2 @@
+{'metrics': 'cosine', 'neighbors': 11}
+0.41666666666666663
